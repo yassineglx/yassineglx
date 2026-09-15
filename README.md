@@ -70,18 +70,6 @@ I'm a software engineering student passionate about building **real-world system
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassineglx&show_icons=true&theme=minimal&hide_border=true&count_private=true" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassineglx&layout=compact&theme=minimal&hide_border=true&langs_count=6" height="155" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yassineglx&theme=minimal&hide_border=true" height="155"/>
-</p>
-
----
 
 <p align="center">
   <i>Open to backend roles, internships, and collaboration on meaningful projects.</i><br/>
